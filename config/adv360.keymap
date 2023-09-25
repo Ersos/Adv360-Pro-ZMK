@@ -53,7 +53,7 @@
     &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp LS(LEFT)  &kp LS(DOWN)  &kp LS(UP)  &kp LS(RIGHT)  &kp KP_MINUS   &kp BSLH
     &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans      &kp LEFT      &kp DOWN      &kp UP      &kp RIGHT   &kp KP_PLUS    &kp SQT
  &kp LSHFT  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                      &kp HOME     &kp PG_DN   &kp PG_UP        &kp END        &trans  &kp RSHFT
-     &mo 2  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                      &trans      &trans         &trans        &trans      &mo 2
+     &mo 2  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                      &trans      &trans         &trans        &trans     &trans
             >;
         };
 
